@@ -17,5 +17,5 @@ A simple REST API built with Flask to manage user data using in-memory storage. 
 
 1. **Clone the repository** (or download files):
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/abhranilsingharoy-cloud/REST-API-WITH-FLUX>
    cd <repo-folder>
